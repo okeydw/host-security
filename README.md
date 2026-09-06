@@ -11,8 +11,11 @@
 ## Зависимости
 
 `journal`/`ssh`/`ss` - Обязательный
+
 `whois`/`rkhunter` - Опциональный
+
 `fail2ban`/`ufw`/`iptables` - Фаервол
+
 ---
 ## Быстрый старт
 ```bash
