@@ -19,5 +19,5 @@
 ---
 ## Быстрый старт
 ```bash
-sudo python3 <(curl -fsSL https://raw.githubusercontent.com/okeydw/host-security/main/host-security.py)
+python3 <(curl -fsSL https://raw.githubusercontent.com/okeydw/host-security/main/host-security.py)
 ```
